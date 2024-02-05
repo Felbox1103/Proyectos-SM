@@ -1,4 +1,4 @@
-# Proyectos realizados en el curso de Estructura de Datos.
+#Proyectos realizados en el curso de Estructura de Datos.
 ### desde la web de github
 Creamos un nuevo repositorio en <https://github.com>. Le damos nombre, descripción, seleccionamos si va a ser un proyecto publico o privado si es el caso, y dejamos el check de crear README sin marcar.
 Le damos a __crear repositorio__ y con esto ya tenemos el repositorio donde alojaremos nuestro proyecto.
